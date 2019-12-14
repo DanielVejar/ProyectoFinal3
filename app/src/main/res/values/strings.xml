@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="error_message_email">Ingrese un email valido</string>
+    <string name="error_valid_email_password">Email o contraseña INCORRECTOS</string>
+    <string name="error_password_match">Contraseñas no coinciden</string>
+    <string name="success_message">Registro Correcto</string>
+    <string name="error_email_exists">Email existente</string>
+    <string name="error_message_name">Ingrese un nombre</string>
+    <string name="error_message_password">Ingrese una contraseña</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Contraseña</string>
+</resources>
